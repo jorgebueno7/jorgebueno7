@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola, soy Jorge Bueno 👋
 
 <!--
 **jorgebueno7/jorgebueno7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
